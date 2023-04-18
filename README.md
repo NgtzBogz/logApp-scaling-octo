@@ -1,10 +1,20 @@
 ## Elizalde Ulson II
 
-### A System used to track the employees Logging in and Logging out.
+### **LOGAPP** Is A System used to track the employees Logging in and Logging out.
 
-![Millenium-Event](TestGifImage.gif)
+![Logapp-Visuals](LogappVisuals.png)
 
-**INSTALLATION**
+
+
+## **INSTALLATION REQUIREMENTS**
+
+**MySQL** - [MySQL Download](https://www.mysql.com/downloads/)
+
+**PHP Language**
+
+**PHPMyADMIN** - [PhpMyAdmin Download](https://www.phpmyadmin.net/downloads/)
+
+## **Procedure on Database edit**
 
 **Step 1** - Open logapp-scaling-octo folder
 
@@ -20,5 +30,6 @@
 
 ## Authors 
 
-**NgtzBogz**
+### **NgtzBogz**
+
 ![NgtzBogz](Pfp.jfif)
